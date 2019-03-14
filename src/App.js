@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Header from './Components/Header';
+import Navbar from './Components/Navbar';
 import Project from './Components/Project';
+import Footer from './Components/Footer';
 import ghibli from './ghibli.png';
 import gifSearch from './gif-search.png';
 import todoTable from './todo-table.png';
@@ -37,13 +39,13 @@ class App extends Component {
         link: "https://11kyle.github.io/beautiful/",
       },
       {
-        title: "Album (Bootstrap, React)",
+        title: "Album",
         picture: album,
         description: "Built with React and Bootstrap. Bootstrap example recreated.",
         link: "https://11kyle.github.io/album/",
       },
       {
-        title: "Pricing (Bootstrap, React)",
+        title: "Pricing",
         picture: pricing,
         description: "Built with React and Bootstrap. Bootstrap example recreated.",
         link: "https://11kyle.github.io/pricing/",
@@ -57,6 +59,9 @@ class App extends Component {
         <div className="row">
           <Header />
         </div>
+
+        <Navbar />
+
         <div className="row">
           {this.state.projects.map((project, index) => 
             <Project
@@ -67,6 +72,9 @@ class App extends Component {
               link={project.link}
             />
           )}
+        </div>
+        <div className="row">
+            <Footer />
         </div>
       </div>
     );

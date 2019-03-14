@@ -1,0 +1,20 @@
+{
+  "main.css": "/portfolio/static/css/main.35fa64ee.chunk.css",
+  "main.js": "/portfolio/static/js/main.b2c00024.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.b2c00024.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+  "static/js/2.11f34878.chunk.js": "/portfolio/static/js/2.11f34878.chunk.js",
+  "static/js/2.11f34878.chunk.js.map": "/portfolio/static/js/2.11f34878.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.39684f7bcb34e348507f2ecfb135e08d.js": "/portfolio/precache-manifest.39684f7bcb34e348507f2ecfb135e08d.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/main.35fa64ee.chunk.css.map": "/portfolio/static/css/main.35fa64ee.chunk.css.map",
+  "static/media/album.png": "/portfolio/static/media/album.75f5bb99.png",
+  "static/media/ghibli.png": "/portfolio/static/media/ghibli.9d571721.png",
+  "static/media/gif-search.png": "/portfolio/static/media/gif-search.6d828907.png",
+  "static/media/man.png": "/portfolio/static/media/man.9152be17.png",
+  "static/media/modal.png": "/portfolio/static/media/modal.ff1c451d.png",
+  "static/media/pricing.png": "/portfolio/static/media/pricing.59f6d3e9.png",
+  "static/media/todo-table.png": "/portfolio/static/media/todo-table.af360af9.png"
+}
